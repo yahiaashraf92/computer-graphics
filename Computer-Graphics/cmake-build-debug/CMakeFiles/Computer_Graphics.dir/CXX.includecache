@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/Circle.h
+Line.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/Line.h
+allCircles.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/allCircles.h
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/Clipping.h
+bits/stdc++.h
+-
+Windows.h
+-
+allLines.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/allLines.h
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/CurveFilling.h
+bits/stdc++.h
+-
+Windows.h
+-
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/FillingAlgorithms.h
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/Line.h
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/LineFillingCircle.h
+bits/stdc++.h
+-
+iostream
+-
+math.h
+-
+tchar.h
+-
+windows.h
+-
+allLines.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/allLines.h
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/allCircles.h
+math.h
+-
+tchar.h
+-
+windows.h
+-
+allLines.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/allLines.h
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/allLines.h
+bits/stdc++.h
+-
+iostream
+-
+math.h
+-
+tchar.h
+-
+windows.h
+-
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/elipses.h
+bits/stdc++.h
+-
+Windows.h
+-
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/main.cpp
+tchar.h
+-
+windows.h
+-
+bits/stdc++.h
+-
+fstream
+-
+Circle.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/Circle.h
+CurveFilling.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/CurveFilling.h
+Clipping.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/Clipping.h
+elipses.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/elipses.h
+allLines.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/allLines.h
+allCircles.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/allCircles.h
+LineFillingCircle.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/LineFillingCircle.h
+FillingAlgorithms.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/FillingAlgorithms.h
+transformation.h
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/transformation.h
+
+D:/university/Level 3/2nd Term/Graphics/Computer-Graphics/transformation.h
+

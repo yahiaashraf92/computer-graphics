@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/Circle.h
+Line.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/Line.h
+allCircles.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/allCircles.h
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/Clipping.h
+bits/stdc++.h
+-
+Windows.h
+-
+allLines.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/allLines.h
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/CurveFilling.h
+bits/stdc++.h
+-
+Windows.h
+-
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/FillingAlgorithms.h
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/Line.h
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/LineFillingCircle.h
+bits/stdc++.h
+-
+iostream
+-
+math.h
+-
+tchar.h
+-
+windows.h
+-
+allLines.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/allLines.h
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/allCircles.h
+math.h
+-
+tchar.h
+-
+windows.h
+-
+allLines.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/allLines.h
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/allLines.h
+bits/stdc++.h
+-
+iostream
+-
+math.h
+-
+tchar.h
+-
+windows.h
+-
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/elipses.h
+bits/stdc++.h
+-
+Windows.h
+-
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/main.cpp
+tchar.h
+-
+windows.h
+-
+bits/stdc++.h
+-
+fstream
+-
+Circle.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/Circle.h
+CurveFilling.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/CurveFilling.h
+Clipping.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/Clipping.h
+elipses.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/elipses.h
+allLines.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/allLines.h
+allCircles.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/allCircles.h
+LineFillingCircle.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/LineFillingCircle.h
+FillingAlgorithms.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/FillingAlgorithms.h
+transformation.h
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/transformation.h
+
+C:/Users/lenovo/Desktop/complete graphics/Computer-Graphics/transformation.h
+
